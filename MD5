@@ -1,0 +1,16 @@
+1cd9990f206fd1b21fc2f8ffeebce3a3 *COPYING
+67fba9028f00832e1b195cdacc8df5aa *ChangeLog
+ac19cd3548717c046fb847be3fd2ce85 *DESCRIPTION
+8f986e34c3c45c4da27b510f4fc3bead *NAMESPACE
+f7ff178e8b097e1a5adcbdb11a1d7225 *R/BEKK.R
+e70c9829bfadde787a8b0a11f1d4aca5 *R/mGJR.R
+75785af18d2b1aa69f21291698f48509 *README.md
+3ab09e95256e70151817d2f0f7a4c643 *man/BEKK.Rd
+44b1c8f8699c9a2fc22ae5bfc336528e *man/diagnoseBEKK.Rd
+9e70727a595fa6defdc07a13fdbced83 *man/mGJR.Rd
+243e3a02c0c8f6572d60dbcd9390cc46 *man/simulateBEKK.Rd
+c82a3d0c6a209de2b0e8d219cb0e75a4 *src/loglikelihood.c
+c5ccd651809fc5a63a6d11c9e3915344 *src/loglikelihood.h
+0c882a8e46f16ad8b4609141a0a51030 *src/loglikelihood_GJR.c
+9661ccf20c33412732e98d6f8accaff6 *src/matrixlib.c
+16e96c998cc0f753bebc442274e987d4 *src/matrixlib.h
